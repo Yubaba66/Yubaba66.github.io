@@ -20,22 +20,22 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 愚BaBa的blog
+title   : Yubaba's blog
 description: > # this means to ignore newlines until "Language & timezone"
-  欢迎来到我的博客，以下内容是我的个人编程心得，您可以认为是我的日记
+  Welcome to my diary
 
 
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
-Asia/beijing
+Asia/Shanghai
 
 ## => Author and Social
 ##############################
 author:
   type      :default # "person" (default), "organization"
-  name      : 愚BaBa
+  name      : Yubaba66
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
